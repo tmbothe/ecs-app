@@ -17,6 +17,6 @@ server {
 
 }
 
-upstream backend {
-    server backend.ecsworkshop.local:3000;
-}
+#upstream backend {
+#    server backend.ecsworkshop.local:3000;
+#}
