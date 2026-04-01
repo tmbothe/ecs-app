@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ECS Workshop Application
 
 A containerized full-stack web application demonstrating AWS ECS deployment with a React-style frontend and Node.js backend. This application showcases modern containerization practices and automated CI/CD deployment to Amazon Elastic Container Service (ECS).
@@ -268,3 +269,4 @@ The infrastructure repository contains:
 ## 📄 License
 
 This project is created for educational purposes as part of the ECS Workshop curriculum.
+
